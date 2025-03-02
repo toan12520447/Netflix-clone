@@ -4,7 +4,7 @@
 //
 //  Created by Toan Tran on 10/5/23.
 //
-
+//Update data.
 import Foundation
 
 struct Constants{
