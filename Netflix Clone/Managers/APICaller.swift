@@ -13,6 +13,9 @@ struct Constants{
     static let YoutubeAPI_KEY = ""
     static let YoutubeBaseURL = "https://youtube.googleapis.com/youtube"
 }
+struct data2{
+    
+}
 
 enum APIError: Error{
     case failedTogetData
